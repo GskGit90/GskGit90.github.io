@@ -1,0 +1,11 @@
+::1 - - [08/Mar/2023:22:54:12 +0530] "GET / HTTP/1.1" 200 783
+::1 - - [08/Mar/2023:22:54:13 +0530] "GET /favicon.ico HTTP/1.1" 404 209
+::1 - - [08/Mar/2023:22:54:19 +0530] "GET /start.bat HTTP/1.1" 200 20
+::1 - - [08/Mar/2023:22:54:29 +0530] "GET /public/ HTTP/1.1" 200 348
+::1 - - [08/Mar/2023:22:54:31 +0530] "GET /public/static/ HTTP/1.1" 200 271
+::1 - - [08/Mar/2023:22:54:34 +0530] "GET /public/index.html HTTP/1.1" 200 1349229
+::1 - - [08/Mar/2023:22:54:34 +0530] "GET /static/css/darkmode.min.css HTTP/1.1" 404 225
+::1 - - [08/Mar/2023:22:54:34 +0530] "GET /static/css/main.css HTTP/1.1" 404 217
+::1 - - [08/Mar/2023:22:54:34 +0530] "GET /static/css/util.css HTTP/1.1" 404 217
+::1 - - [08/Mar/2023:22:54:34 +0530] "GET /isLogin HTTP/1.1" 404 205
+::1 - - [08/Mar/2023:22:54:39 +0530] "GET /public/play.html?id=144&ch=Colors_HD.png HTTP/1.1" 404 214
